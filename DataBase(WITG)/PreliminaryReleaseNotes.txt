@@ -1,0 +1,36 @@
+The current build is a test version with a very limited catalog of games. In order to improve the ease of testing
+I have included a list of games along with their respective attributes.
+
+Games:
+1 Act of Fighter
+	BEU
+	1994
+	PC
+2 Altered Beast
+	BEU
+	1988
+	Coin-Op
+3 Asterix and the Magic Cauldron
+	BEU
+	1986
+	PC
+4 After the War
+	BEU
+	1989
+	PC
+5 Bad Dudes Vs Dragon Ninja
+	BEU
+	1988
+	PC
+6 Bad Street Brawler
+	BEU
+	1987
+	PC
+7 Bad Street Brawler (NES)
+	BEU
+	1987
+	NES
+8 Batman Beyond: Return of the Joker (GBC)
+	BEU
+	2000
+	GBC

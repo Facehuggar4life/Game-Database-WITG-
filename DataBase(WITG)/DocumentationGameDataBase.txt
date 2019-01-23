@@ -1,0 +1,27 @@
+The following is program written by Facehuggar4life. You are welcome to reuse or modify any of this material to as allowed by the latest GNU license. You do not need my permission.
+To launch this program properly on Windows it is advised you use the included batch file. Additionally, if you use the batch you will have to place the DataBase folder in "C:\Program Files". If you use a Linux distro or Mac OS you will have to manually run progrogram throught the terminal.
+To run this you will obviously have to have JRE installed. Users should be warned this is an entirely console based program; there is no GUI and there are no plans to implement one.
+
+Acceptable Genres:
+BEU = Beat 'em ups
+FPS = First Person Shooters
+RTS = Real-Time Strategy
+MOBA = Multiplayer Online Battle Arena
+MMO = Massively Multiplayer Online
+
+All computer games should be entered as PC regardless of the platform/OS they actually came out on (MS-DOS, Linux, Commadore 64. ect.)
+
+Note: This is an early version and only Beat 'em ups have been entered. If you would like to help improve the database feel free to contact me via Reddit.
+You do not need any prior programming experience for most tasks.
+
+Standardized System Entries:
+(Please note that all entries are not case sensitive. However, the actual characters typed must be otherwise identical to what is displayed below.)
+PC = Personal Computer (As stated above, this is multipurpose)
+GBC = Gameboy Color
+NES = Nintendo Entertainment System
+SNES = Super Nintendo Entertainment System
+Coin-OP = Refers to any arcade cabinet
+PS(n) = Playstation with "n" being the interation of the console. (This should be typed excluding the parentheses)
+XBOX = original XBOX console
+XBOX 360 = XBOX 360 console
+XBOX One = the successor to the XBOX 360 console
